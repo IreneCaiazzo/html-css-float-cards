@@ -1,0 +1,28 @@
+*{
+    max-width: 1100px;
+    box-sizing: border-box;
+    margin: 0 auto;
+    text-align: center;
+}
+
+h1{
+    color: palevioletred;
+    margin-bottom: 2rem;
+}
+
+p{
+   margin-bottom: 2rem; 
+}
+
+.tag{
+    background-color: darkslateblue;
+    max-width: 300px;
+    color: white;
+    margin: 20px;
+    float: left;
+}
+
+img{
+    width: 100px;
+
+}
